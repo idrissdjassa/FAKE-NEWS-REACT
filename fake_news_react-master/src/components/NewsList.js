@@ -8,7 +8,7 @@ class NewsList extends React.Component {
         <div id="banner-box-outer">
           <div id="banner-overlay">
             <h1>Breaking News!</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+            <p>  </p>
           </div>
           <img
             id="banner"
